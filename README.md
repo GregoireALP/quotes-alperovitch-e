@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: Ethan bis
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](https://github.com/SachaSltn/quotes-sultan-e)
-- `contributor-2`: [quotes-wizz-b](https://github.com/eth03/quotes-noubissie-e)
-- `contributor-3`: [quotes-toto-b](https://github.com/eth03/quotes-noubissie-e)
+- `contributor-1`: [Sacha's Fork](https://github.com/SachaSltn/quotes-sultan-e)
+- `contributor-2`: [Ethan's Fork](https://github.com/eth03/quotes-noubissie-e)
+- `contributor-3`: [Ethan's Spare Fork](https://github.com/eth03/quotes-noubissie-e)
